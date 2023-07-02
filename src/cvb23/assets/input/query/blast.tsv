@@ -1,0 +1,13 @@
+,0
+query,Escherichia_coli_GYRB_ECOLI
+subject,tr|X2C0N1|X2C0N1_9BACI
+perc_identity,100.0
+align_length,638
+mismatches,221
+gap_openings,5
+q_start,712
+q_end,804
+s_start,546
+s_end,640
+e_value,7.3
+bit_score,1313.0

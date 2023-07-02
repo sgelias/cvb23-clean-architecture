@@ -1,0 +1,117 @@
+<mxfile host="65bd71144e">
+    <diagram id="lpb533zvaI3RvnjKoDN3" name="Page-1">
+        <mxGraphModel dx="1602" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="PLANNING" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="110" width="70" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="DESIGN" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="110" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="5" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="5" target="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="600" y="50"/>
+                            <mxPoint x="320" y="50"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="IMPLEMENTING" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="110" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="8" target="5">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="835" y="50"/>
+                            <mxPoint x="670" y="50"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="8" target="12">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="930" y="140"/>
+                            <mxPoint x="930" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="TESTING" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="800" y="110" width="70" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="12" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="MAINTENANCE" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="230" width="580" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="15" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="IMPLEMENTING" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="395" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="17" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="160" y="425"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="EXTERNAL AGENT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="300" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="20" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="TESTING" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="395" width="70" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="22" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="MAINTENANCE" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="395" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="24" target="26">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="990" y="600"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="MARKET PRESSURE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="950" y="480" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="26" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="IMPLEMENTING" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="570" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=orthogonalEdgeStyle;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="28" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="TESTING" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="570" width="70" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="MAINTENANCE" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="570" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="swimlane;startSize=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="10" width="980" height="650" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,2 @@
+[console_scripts]
+cvblast-cmd = cvb23.ports.cli.main:cvb_cmd

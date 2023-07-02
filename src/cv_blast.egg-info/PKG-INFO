@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: cv-blast
+Version: 0.0.1
+Summary: Um Wrapper para o BLAST para CV Inverno (versão Verão) de Bioinformática 2023
+Author-email: Samuel Galvão Elias <sgelias@outlook.com>
+Keywords: DNA,Bioinformatics,CVB23
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.11

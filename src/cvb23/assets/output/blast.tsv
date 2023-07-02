@@ -1,0 +1,3 @@
+query	perc_identity	bit_score
+Bacillus_spp_A0A1D9PQP9_9BACI	100.0	1313.0
+Escherichia_coli_GYRB_ECOLI	69.792	671.0
